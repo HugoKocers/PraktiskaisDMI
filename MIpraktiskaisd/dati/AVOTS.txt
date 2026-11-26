@@ -1,0 +1,6 @@
+Datu kopa: Wine Quality — Red Wine
+Avots: UCI Machine Learning Repository
+Lejupielādes saite: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
+Lejupielādes datums: 2026-11-26
+Licence: CC BY 4.0 (UCI datu kopas lapa)
+Piezīme: lejupielādētais fails saglabāts nemainīts; oriģinālā lietoti semikoli kā lauku atdalītāji.
